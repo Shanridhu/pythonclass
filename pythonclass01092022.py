@@ -13,3 +13,4 @@
 #print(d,type(d))
 #print(f,type(f))
 
+#https://docs.google.com/document/d/1fvVP44MSboDZLJ378ZObXGDlyEo69qfKmGr_mWtUiG8/edit -- document for task
